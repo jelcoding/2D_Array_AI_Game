@@ -1,0 +1,1 @@
+java -cp ../  cs420project3/Main
