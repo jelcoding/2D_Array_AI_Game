@@ -14,7 +14,7 @@ Starting player will start in top left of board. Secondary player will start on 
 
 X = computer
 0 = User
-# = Used space/Wall
+'#' = Used space/Wall
 
 Players can move in the same movement pattern that a Queen in chess can move (any straight line/diagonal)
 
