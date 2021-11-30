@@ -1,4 +1,4 @@
-Double click bat file to run game
+
 
 Object of game is to leave opponent with no possible moves from their position
 
