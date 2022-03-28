@@ -8,6 +8,8 @@ also be able to play against a human player.
 
 Game features two players. User is able to choose whether they or the computer go first
 
+Use .bat folder located in path 2D Tile Game\out\artifacts\2D_Tile_Game_jar to start
+
 Select abritrary number for time limit
 
 Starting player will start in top left of board. Secondary player will start on bottom right of board
