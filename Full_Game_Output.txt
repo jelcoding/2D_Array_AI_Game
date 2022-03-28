@@ -1,0 +1,378 @@
+Time limit: 50
+Time limit established as 50 seconds
+Who goes first?
+1. Computer
+2. User
+1
+
+  1 2 3 4 5 6 7 8 
+A X - - - - - - - 
+B - - - - - - - - 
+C - - - - - - - - 
+D - - - - - - - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - - - - - - - 
+H - - - - - - - O 
+
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - - - - - - - - 
+C - - - - - - - - 
+D - - - - - - - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - - - - - X - 
+H - - - - - - - O 
+
+Computer chose G7
+
+Enter opponent's move: h2
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - - - - - - - - 
+C - - - - - - - - 
+D - - - - - - - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - X - - - # - 
+H - O - - - - - # 
+
+Computer chose G3
+
+Enter opponent's move: b2
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - O - - - - - - 
+C - - X - - - - - 
+D - - - - - - - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - # - - - # - 
+H - # - - - - - # 
+
+Computer chose C3
+
+Enter opponent's move: b3
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # O - - - - - 
+C - - # X - - - - 
+D - - - - - - - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - # - - - # - 
+H - # - - - - - # 
+
+Computer chose C4
+
+Enter opponent's move: b4
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # O - - - - 
+C - - # # - - - - 
+D - - - X - - - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - # - - - # - 
+H - # - - - - - # 
+
+Computer chose D4
+
+Enter opponent's move: d7
+Invalid input
+
+Enter opponent's move: d5
+Invalid input
+
+Enter opponent's move: d6
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # X O - - 
+E - - - - - - - - 
+F - - - - - - - - 
+G - - # - - - # - 
+H - # - - - - - # 
+
+Computer chose D5
+
+Enter opponent's move: e5
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - - 
+E - - - - O X - - 
+F - - - - - - - - 
+G - - # - - - # - 
+H - # - - - - - # 
+
+Computer chose E6
+
+Enter opponent's move: f5
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - - 
+E - - - - # # - - 
+F - - - - O - - - 
+G - - # - - X # - 
+H - # - - - - - # 
+
+Computer chose G6
+
+Enter opponent's move: g5
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - - 
+E - - - - # # - - 
+F - - - - # X - - 
+G - - # - O # # - 
+H - # - - - - - # 
+
+Computer chose F6
+
+Enter opponent's move: h6
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - X 
+E - - - - # # - - 
+F - - - - # # - - 
+G - - # - # # # - 
+H - # - - - O - # 
+
+Computer chose D8
+
+Enter opponent's move: h5
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - # 
+E - - - - # # X - 
+F - - - - # # - - 
+G - - # - # # # - 
+H - # - - O # - # 
+
+Computer chose E7
+
+Enter opponent's move: h4
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - # 
+E - - - - # # # - 
+F - - - - # # X - 
+G - - # - # # # - 
+H - # - O # # - # 
+
+Computer chose F7
+
+Enter opponent's move: h3
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # - # 
+E - - - - # # # X 
+F - - - - # # # - 
+G - - # - # # # - 
+H - # O # # # - # 
+
+Computer chose E8
+
+Enter opponent's move: g4
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - - - 
+D - - - # # # X # 
+E - - - - # # # # 
+F - - - - # # # - 
+G - - # O # # # - 
+H - # # # # # - # 
+
+Computer chose D7
+
+Enter opponent's move: f4
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - - - 
+B - # # # - - - - 
+C - - # # - - X - 
+D - - - # # # # # 
+E - - - - # # # # 
+F - - - O # # # - 
+G - - # # # # # - 
+H - # # # # # - # 
+
+Computer chose C7
+
+Enter opponent's move: f3
+
+  1 2 3 4 5 6 7 8 
+A # - - - - - X - 
+B - # # # - - - - 
+C - - # # - - # - 
+D - - - # # # # # 
+E - - - - # # # # 
+F - - O # # # # - 
+G - - # # # # # - 
+H - # # # # # - # 
+
+Computer chose A7
+
+Enter opponent's move: g2
+
+  1 2 3 4 5 6 7 8 
+A # - - X - - # - 
+B - # # # - - - - 
+C - - # # - - # - 
+D - - - # # # # # 
+E - - - - # # # # 
+F - - # # # # # - 
+G - O # # # # # - 
+H - # # # # # - # 
+
+Computer chose A4
+
+Enter opponent's move: h1
+
+  1 2 3 4 5 6 7 8 
+A # - - # - - # - 
+B - # # # - - - - 
+C - - # # - X # - 
+D - - - # # # # # 
+E - - - - # # # # 
+F - - # # # # # - 
+G - # # # # # # - 
+H O # # # # # - # 
+
+Computer chose C6
+
+Enter opponent's move: g1
+
+  1 2 3 4 5 6 7 8 
+A # - - # - - # X 
+B - # # # - - - - 
+C - - # # - # # - 
+D - - - # # # # # 
+E - - - - # # # # 
+F - - # # # # # - 
+G O # # # # # # - 
+H # # # # # # - # 
+
+Computer chose A8
+
+Enter opponent's move: f1
+
+  1 2 3 4 5 6 7 8 
+A # - - # - - # # 
+B - # # # - - X - 
+C - - # # - # # - 
+D - - - # # # # # 
+E - - - - # # # # 
+F O - # # # # # - 
+G # # # # # # # - 
+H # # # # # # - # 
+
+Computer chose B7
+
+Enter opponent's move: f2
+
+  1 2 3 4 5 6 7 8 
+A # - - # - X # # 
+B - # # # - - # - 
+C - - # # - # # - 
+D - - - # # # # # 
+E - - - - # # # # 
+F # O # # # # # - 
+G # # # # # # # - 
+H # # # # # # - # 
+
+Computer chose A6
+
+Enter opponent's move: r3
+Invalid input
+
+Enter opponent's move: e3
+
+  1 2 3 4 5 6 7 8 
+A # - - # X # # # 
+B - # # # - - # - 
+C - - # # - # # - 
+D - - - # # # # # 
+E - - O - # # # # 
+F # # # # # # # - 
+G # # # # # # # - 
+H # # # # # # - # 
+
+Computer chose A5
+
+Enter opponent's move: e2
+
+  1 2 3 4 5 6 7 8 
+A # - - # # # # # 
+B - # # # - - # - 
+C - - # # X # # - 
+D - - - # # # # # 
+E - O # - # # # # 
+F # # # # # # # - 
+G # # # # # # # - 
+H # # # # # # - # 
+
+Computer chose C5
+
+Enter opponent's move: e1
+
+  1 2 3 4 5 6 7 8 
+A # - - # # # # # 
+B - # # # X - # - 
+C - - # # # # # - 
+D - - - # # # # # 
+E O # # - # # # # 
+F # # # # # # # - 
+G # # # # # # # - 
+H # # # # # # - # 
+
+Computer chose B5
+
+Enter opponent's move: d1
+
+  1 2 3 4 5 6 7 8 
+A # - - # # # # # 
+B - # # # # X # - 
+C - - # # # # # - 
+D O - - # # # # # 
+E # # # - # # # # 
+F # # # # # # # - 
+G # # # # # # # - 
+H # # # # # # - # 
+
+Computer chose B6
+
+Enter opponent's move: d2
+
+X is out of moves!
